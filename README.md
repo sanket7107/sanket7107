@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanket7107
 - 👀 I’m interested in languages 
 - 🌱 I’m currently learning cyber security 
-- 📫 How to reach me sanket21kanse@gmail.com
+- 📫 How to reach me mr.sanketkanase@gmail.com
 
 
 <!---
