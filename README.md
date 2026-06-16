@@ -27,6 +27,7 @@
 
 * Microsoft Excel
 * Power BI
+* Tabelu
 * Pandas
 * NumPy
 * Matplotlib
