@@ -1,6 +1,6 @@
 - # 👋 Hi, I'm Sanket Kanase
 
-🎓 B.Tech | Data Analyst | AI & Cybersecurity Enthusiast
+🎓 B.Tech | Data Analyst | AI & ML Enthusiast
 
 ## 🚀 About Me
 
